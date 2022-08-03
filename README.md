@@ -1,4 +1,4 @@
-> this is readme file provided with the code the documentation will be found in the documentation folder
+> **this is readme file provided with the code the documentation will be found in the documentation folder**
 
 # Hosting a Full-Stack Application
 
