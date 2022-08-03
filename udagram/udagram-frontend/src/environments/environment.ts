@@ -3,9 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-    production: false,
-    appName: "Udagram",
-    apiHost: "http://localhost:3000/api/v0",
+    production: true,
+    appName: 'Udagram',
+    apiHost:
+        'http://udagram-api-dev.eba-v3qbepu3.us-east-1.elasticbeanstalk.com/api/v0',
 };
 
 /*
