@@ -24,7 +24,15 @@ built with :->
 
 ### Environment Variables
 
-in .env file or in Cloud env
+set Environment Variables in CircleCi and EB
+
+using the command
+
+```
+eb setenv key=value
+```
+
+to all these variables
 
 ```
 - PORT                = 3000
