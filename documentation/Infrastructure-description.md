@@ -23,17 +23,19 @@ built with :->
 ![infrastructure](./diagrams/AWS%20Architecture%20Diagram.png)
 ![pipeline](./diagrams/udagram%20pipeline%20.jpeg)
 
-### Environment Variables
+#### Environment Variables
 
-set Environment Variables in CircleCi and EB
+set Environment Variables in CircleCi
+![config](./screenshots/CircleCI%20-%20Project%20%20Environment%20Variables.jpg)
 
+and on EB
 using the command
 
 ```
 eb setenv key=value
 ```
 
-to all these variables
+to all variables needed
 
 ```
 - PORT                = 3000
