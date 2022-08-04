@@ -9,4 +9,6 @@
 - `npm run backend:deploy`      - To deploy the project to EB using `./udagram-api/bin/deploy.sh` deploy script.
 ```
 
+![pipeline](./diagrams/udagram%20pipeline%20.jpeg)
+
 > Note: you will find screanshots and diagrams in folders screenshots and diagrams
