@@ -21,6 +21,7 @@ built with :->
 -   EB url / api link : [http://udagram-api-dev.eba-v3qbepu3.us-east-1.elasticbeanstalk.com/](http://udagram-api-dev.eba-v3qbepu3.us-east-1.elasticbeanstalk.com/)
 
 ![the code infrastructure](diagrams/AWS Architecture Diagram.png)
+![infrastructure](diagrams/AWS Architecture Diagram.png)
 
 ### Environment Variables
 
