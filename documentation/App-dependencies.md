@@ -12,9 +12,19 @@
 - A S3 bucket for hosting uploaded pictures.
 ```
 
-### Environment Variables
+#### Environment Variables
 
-in .env file or in Cloud env
+set Environment Variables in CircleCi
+![config](./screenshots/CircleCI%20-%20Project%20%20Environment%20Variables.jpg)
+
+and on EB
+using the command
+
+```
+eb setenv key=value
+```
+
+to all variables needed
 
 ```
 - PORT                = 3000
