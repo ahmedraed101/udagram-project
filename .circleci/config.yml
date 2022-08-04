@@ -70,6 +70,12 @@ workflows:
     udagram:
         jobs:
             - build
+                  - test:
+                      filters:
+                          branches:
+                              only:
+                                  - master
+                only:
             - hold:
                   filters:
                       branches:
