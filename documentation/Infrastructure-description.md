@@ -20,7 +20,8 @@ built with :->
 -   frontend - [S3 : http://udagramzbucket.s3-website-us-east-1.amazonaws.com](http://udagramzbucket.s3-website-us-east-1.amazonaws.com)
 -   EB url / api link : [http://udagram-api-dev.eba-v3qbepu3.us-east-1.elasticbeanstalk.com/](http://udagram-api-dev.eba-v3qbepu3.us-east-1.elasticbeanstalk.com/)
 
-![infrastructure](./diagrams/AWS Architecture Diagram.png)
+![infrastructure](./diagrams/AWS%20Architecture%20Diagram.png)
+![pipeline](./diagrams/udagram%20pipeline%20.jpeg)
 
 ### Environment Variables
 
